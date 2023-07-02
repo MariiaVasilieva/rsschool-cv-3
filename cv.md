@@ -1,4 +1,6 @@
-# Mariia Vasilieva
+<image src="https://avatars.githubusercontent.com/u/102521723?v=4" alt="Описание картинки">
+
+ # Mariia Vasilieva
 
 *Junior Frontend Developer*
 #### ___Contact information___
