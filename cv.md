@@ -2,7 +2,7 @@
 
 ---
 
- # Mariia Vasilieva
+# Mariia Vasilieva
 
 *Junior Frontend Developer*
 #### ___Contact information___
