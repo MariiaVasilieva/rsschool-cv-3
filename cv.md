@@ -1,4 +1,4 @@
-<image src="https://avatars.githubusercontent.com/u/102521723?v=4" alt="Описание картинки">
+![Текст описания](https://avatars.githubusercontent.com/u/102521723?v=4)
 
  # Mariia Vasilieva
 
